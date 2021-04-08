@@ -1,0 +1,10 @@
+/.idea
+/data
+/logs
+*\.log
+*.sql
+*.prof
+*.db
+*.db.lock
+/app.ini
+/app.local*

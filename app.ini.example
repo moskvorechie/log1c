@@ -1,0 +1,13 @@
+[main]
+app = sql1999
+msg_level = warning
+log_path = logs/app
+log_level = debug
+
+[logs]
+test = data
+
+[elastic]
+url = http://127.0.0.1:9999
+user = log1c
+pass =
