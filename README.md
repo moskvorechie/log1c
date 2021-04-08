@@ -2,7 +2,7 @@
 This service parse logs and send json formatted messages to Elastic  
 
 ## Install
-1. Build go app - use _build.bat for help
+1. Build go app - use _build.bat for help OR download from release log1c.exe
 2. Move app.ini.example to app.ini and fill file
 2. Install service - use _install.bat
 
