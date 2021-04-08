@@ -5,6 +5,7 @@
 *.sql
 *.prof
 *.db
+*.exe
 *.db.lock
 /app.ini
 /app.local*
